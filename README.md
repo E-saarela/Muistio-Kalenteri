@@ -1,2 +1,2 @@
 # Muistio-Kalenteri
-Muistio johon voi tallentaa ja kalenteri 
+Muistio johon voi tallentaa ja kalenteri :D
